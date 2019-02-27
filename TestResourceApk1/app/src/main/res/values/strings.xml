@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestResourceApk1</string>
+
+    <string name="test_text">资源包1中的文字</string>
+</resources>

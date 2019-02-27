@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoadResourceDemo</string>
+
+    <string name="test_text">现有文字</string>
+</resources>
